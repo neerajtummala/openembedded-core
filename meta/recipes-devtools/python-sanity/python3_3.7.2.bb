@@ -18,6 +18,9 @@ SRC_URI = "http://www.python.org/ftp/python/${PV}/Python-${PV}.tar.xz \
            file://python-config.patch \
            file://0001-Makefile.pre-use-qemu-wrapper-when-gathering-profile.patch \
            file://0001-Do-not-hardcode-lib-as-location-for-site-packages-an.patch \
+           file://0001-python3-use-cc_basename-to-replace-CC-for-checking-c.patch \
+           file://0002-Don-t-do-runtime-test-to-get-float-byte-order.patch \
+           file://0003-setup.py-pass-missing-libraries-to-Extension-for-mul.patch \
            "
 
 SRC_URI_append_class-native = " \

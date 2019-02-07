@@ -1,4 +1,4 @@
-From 5b2885fd3eaf05b4397385195872d4ec8240a47c Mon Sep 17 00:00:00 2001
+From 4865615a2bc2b78c739e4c33f536712c7f9af061 Mon Sep 17 00:00:00 2001
 From: Alexander Kanavin <alex.kanavin@gmail.com>
 Date: Thu, 31 Jan 2019 16:46:30 +0100
 Subject: [PATCH] distutils/sysconfig: append
